@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/danielmascena/spearjs/issues"
   },
-  "homepage": "https://github.com/danielmascena/spearjs#readme"
+  "homepage": "https://github.com/danielmascena/spearjs#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
 }
